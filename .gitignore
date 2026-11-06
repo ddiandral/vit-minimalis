@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# dataset CIFAR-10 yang diunduh otomatis
+data/
+# checkpoint model (file besar)
+results/*.pt
